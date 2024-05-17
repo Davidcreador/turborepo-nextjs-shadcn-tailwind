@@ -1,5 +1,5 @@
 {
-  "name": "nannycr",
+  "name": "turborepo-nextjs-shadcn-tailwind",
   "private": true,
   "scripts": {
     "build": "turbo build",
